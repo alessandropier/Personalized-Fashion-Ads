@@ -68,7 +68,9 @@ In prospettiva, questo progetto pone le basi per sviluppare un sistema di person
 📄 sql superinterface.py
 📄 OneTimeScript crea_immagini_baselinecsv.py
 📄 OneTimeScript_crea_domandecsv.py
+📄 Tesi Piergiovanni.pdf
 📄 requirements.txt
+
 📄 README.md
 ```
 
@@ -130,6 +132,9 @@ In prospettiva, questo progetto pone le basi per sviluppare un sistema di person
 
 - `fashion_database.db`  
   Database SQLite generato automaticamente dal sistema. Contiene tutte le informazioni strutturate (utenti, immagini, domande e risposte).
+
+- `Tesi Piergiovanni.pdf`  
+  Tesi di laurea sul sistema realizzato: include introduzione, stato dell'arte, documentazione completa del progetto, con descrizione, implementazione e analisi dei risultati.
 
 
 ## 🛠️ Requisiti
