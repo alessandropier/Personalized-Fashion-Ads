@@ -16,6 +16,26 @@ L’analisi si concentra sul legame tra **caratteristiche individuali** e **reaz
 
 In prospettiva, questo progetto pone le basi per sviluppare un sistema di personalizzazione ex-novo, dinamico e adattivo, capace di generare contenuti visivi in linea con i gusti e le esigenze dell’utente in tempo reale.
 
+## 🎞️ Video di Funzionamento
+
+### 👨‍👦​​ Registrazione Utente
+L’utente inserisce i propri dati tramite un **form** all’interno della web app; tali informazioni vengono poi memorizzate nel **database sottostante**.
+<div align="center">
+  <img src="./readme gifs/registrazione.gif" width="700"/>
+</div>
+
+### 🖼️​📃 ​Generazione e Questionario
+L’utente genera **quattro immagini**, una per ogni immagine di baseline, e successivamente **valuta le generazioni** tramite un **questionario** dedicato. Tutte le immagini generate vengono salvate nell'apposita cartella dedicata alle immagini generate, mentre le relative informazioni vengono archiviate nel **database sottostante**.
+<div align="center">
+  <img src="./readme gifs/gen&quest.gif" width="700"/>
+</div>
+
+### 📈​​📊​ Schermata SuperUser
+Web app dedicata al **superuser**, progettata per l’**analisi dei dati** raccolti dalle generazioni e dai questionari utente. Le prime quattro schermate sono destinate a **interrogazioni** sul database, mentre le ultime quattro offrono strumenti per l’**analisi statistica**. Tutti i dati vengono presentati attraverso **tabelle** e **grafici interattivi**.
+<div align="center">
+  <img src="./readme gifs/superU.gif" width="700"/>
+</div>
+
 
 ## 📦 Funzionalità del Progetto
 
@@ -55,6 +75,7 @@ In prospettiva, questo progetto pone le basi per sviluppare un sistema di person
 ├── uomo/
 ├── donna/
 📁 Immagini Generate/
+📁 readme gifs/
 
 📄 immagini_baseline.csv
 📄 immagini_generate.csv
@@ -85,6 +106,9 @@ In prospettiva, questo progetto pone le basi per sviluppare un sistema di person
 
 - `Immagini Generate/`  
   Contiene le immagini generate dinamicamente dal sistema (`Stable Diffusion 3.5 Large`) a partire dal profilo utente
+
+- `readme gifs/`  
+Contiene le gif che mostrano il funzionamento del sistema
 
 #### 📁 File CSV
 
