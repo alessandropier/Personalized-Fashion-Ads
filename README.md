@@ -21,7 +21,7 @@ In prospettiva, questo progetto pone le basi per sviluppare un sistema di person
 ### 👨‍👦​​ Registrazione Utente
 L’utente inserisce i propri dati tramite un **form** all’interno della web app; tali informazioni vengono poi memorizzate nel **database sottostante**.
 <div align="center">
-  <img src="./readme gifs/registrazione.gif" width="700"/>
+  <img src="./readme gifs/registrazione.gif" width="900"/>
 </div>
 
 ### 🖼️​📃 ​Generazione e Questionario
