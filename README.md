@@ -27,13 +27,13 @@ L’utente inserisce i propri dati tramite un **form** all’interno della web a
 ### 🖼️​📃 ​Generazione e Questionario
 L’utente genera **quattro immagini**, una per ogni immagine di baseline, e successivamente **valuta le generazioni** tramite un **questionario** dedicato. Tutte le immagini generate vengono salvate nell'apposita cartella dedicata alle immagini generate, mentre le relative informazioni vengono archiviate nel **database sottostante**.
 <div align="center">
-  <img src="./readme gifs/gen&quest.gif" width="700"/>
+  <img src="./readme gifs/gen&quest.gif" width="900"/>
 </div>
 
 ### 📈​​📊​ Schermata SuperUser
 Web app dedicata al **superuser**, progettata per l’**analisi dei dati** raccolti dalle generazioni e dai questionari utente. Le prime quattro schermate sono destinate a **interrogazioni** sul database, mentre le ultime quattro offrono strumenti per l’**analisi statistica**. Tutti i dati vengono presentati attraverso **tabelle** e **grafici interattivi**.
 <div align="center">
-  <img src="./readme gifs/superU.gif" width="700"/>
+  <img src="./readme gifs/superU.gif" width="900"/>
 </div>
 
 
