@@ -25,7 +25,7 @@ L’utente inserisce i propri dati tramite un **form** all’interno della web a
 </div>
 
 ### 🖼️​📃 ​Generazione e Questionario
-L’utente genera **quattro immagini**, una per ogni immagine di baseline, e successivamente **valuta le generazioni** tramite un **questionario** dedicato. Tutte le immagini generate vengono salvate nell'apposita cartella dedicata alle immagini generate, mentre le relative informazioni vengono archiviate nel **database sottostante**.
+L’utente genera **quattro immagini**, una per ogni immagine di baseline. Per ogni tab di generazione, all’utente vengono presentate due immagini: l’immagine di partenza (_baseline_) e quella _generata_, disposte affiancate in **ordine casuale**. Non viene indicata l’origine di ciascuna immagine, in modo da garantire un **confronto anonimo** e **ridurre eventuali bias** nella valutazione. Dopo **ogni generazione** l'utente compila un apposito **questionario di valutazione**. Tutte le immagini generate vengono salvate nell'apposita cartella dedicata alle immagini generate, mentre le relative informazioni vengono archiviate nel **database sottostante**.
 <div align="center">
   <img src="./readme gifs/gen&quest.gif" width="900"/>
 </div>
