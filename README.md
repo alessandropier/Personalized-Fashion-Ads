@@ -220,5 +220,5 @@ Università degli Studi di Bari “Aldo Moro” </br>
 Tesi triennale in "_Metodi per il Ritrovamento dell’Informazione_" </br>
 Anno Accademico 2023/2024 
 
-📫 Contatti: [a.piergiovanni5@studenti.uniba.it](mailto:alessandropiergiovanni001@gmail.com)  
+📫 Contatti: [alessandropiergiovanni001@gmail.com](mailto:alessandropiergiovanni001@gmail.com)  
 🔗 GitHub: [github.com/alessandropier](https://github.com/alessandropier)
