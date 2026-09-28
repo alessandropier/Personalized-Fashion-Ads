@@ -4,8 +4,6 @@
 
 Le immagini generate vengono poi **_valutate attraverso questionari_** e **_analizzate tramite metodi statistici avanzati_** (_correlazioni, regressioni, modelli di preferenza_) per comprendere il legame tra personalizzazione visiva e preferenze estetiche.
 
-</br>
-
 🔹 Il progetto si compone di **due web app**:
 
 - **Interfaccia Utente**: gli utenti inseriscono il proprio profilo, visualizzano immagini **baseline** e **generate ad hoc**, e compilano un questionario per ogni confronto.
@@ -36,6 +34,19 @@ Web app dedicata al **superuser**, progettata per l’**analisi dei dati** racco
   <img src="./readme gifs/superU.gif" width="900"/>
 </div>
 
+## 👜 Perché la Moda?
+Il mio interesse nasce da un grande **amore** per la moda. Sono sempre stato affascinato dall'alta moda e dall'universo che ruota attorno ai capi, alle passerelle e all'**identità dei brand**. Maison come *Rick Owens*, *Valentino*, *Jacquemus*, *Prada*, *Margiela* e *Miu Miu* non si limitano a creare abiti: comunicano una cultura visiva, un'atmosfera e una **storia**.
+
+Nell'e-commerce tradizionale, mantenere una presentazione dei prodotti **pulita** e oggettiva ha perfettamente senso perché l'obiettivo è **mostrare il capo** nella sua forma più pura. Tuttavia, esiste una grande opportunità per spingersi oltre. È proprio per questo che ho realizzato questo progetto:
+
+- Come **strumento** per **creare** campagne pubblicitarie o esplorare nuovi concept di abbigliamento (sulla scia del [progetto A.I.R. di Nike](https://about.nike.com/en-GB/magazine/creating-the-unreal-how-nike-made-its-wildest-air-footwear-yet), che utilizza l'IA per superare i confini della creatività).
+- Come **funzionalità** che i brand possono **integrare** direttamente nei propri **e-commerce**, consentendo agli utenti di visualizzare un capo abbinato e **personalizzato** in base al proprio profilo, **su richiesta**.
+
+## ⚖️ Etica
+
+Questo strumento deve fungere sempre da **supporto**, **mai** da **sostituto** della **creatività** e dell'**artigianalità** umane. L'obiettivo del progetto non è eliminare la componente umana dalla moda, bensì **fornire** a designer e creativi **strumenti** potenti per valorizzare il proprio lavoro e presentarlo al meglio.
+
+Maggiori informazioni su questo argomento sono disponibili nella mia tesi.
 
 ## 📦 Funzionalità del Progetto
 
@@ -220,5 +231,6 @@ Università degli Studi di Bari “Aldo Moro” </br>
 Tesi triennale in "_Metodi per il Ritrovamento dell’Informazione_" </br>
 Anno Accademico 2023/2024 
 
-📫 Contatti: [alessandropiergiovanni001@gmail.com](mailto:alessandropiergiovanni001@gmail.com)  
-🔗 GitHub: [github.com/alessandropier](https://github.com/alessandropier)
+📝 Portfolio: [alessandro.github.io](https://alessandropier.github.io)  
+🔗 GitHub: [github.com/alessandropier](https://github.com/alessandropier)  
+📫 Contatti: [alessandropiergiovanni.info@gmail.com](mailto:alessandropiergiovanni001@gmail.com)  
